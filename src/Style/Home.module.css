@@ -1,0 +1,16 @@
+.allContainer{
+  display: grid;
+  grid-template-columns: auto auto;
+  width: 100vw;
+  height: 100vh;
+}
+
+.cardContainer{
+  width:80vw;
+}
+
+.channelContainer{
+  display: grid;
+  grid-template-rows: auto auto;
+  padding: 20px 0px 0px 30px;
+}
